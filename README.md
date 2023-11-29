@@ -35,6 +35,7 @@ Manuscripts
   
 - [Training](#training)
 - [Evaluation](#evaluation)
+    ![Screenshot](https://github.com/vikramabid/manuscript_pro/blob/main/OCR_model_output.PNG)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
