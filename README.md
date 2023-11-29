@@ -33,7 +33,9 @@ Manuscripts
  the consistency of rules of poetry, prosody, and grammar of the language
  
 - [Data](#data)
-  
+
+
+   [IIT Kanpur valmiki Data set](https://www.valmiki.iitk.ac.in/)
   
 - [Training](#training)
 - [Evaluation](#evaluation)
@@ -42,4 +44,6 @@ Manuscripts
 - [Results](#results)
     ![Screenshot](https://github.com/vikramabid/manuscript_pro/blob/main/model_pre_output.PNG)
 - [Contributing](#contributing)
-- [License](#license)
+   Feel free to contribute to the project by sharing insights, optimizations, or additional features. Create issues, provide feedback.
+  
+    
