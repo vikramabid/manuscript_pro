@@ -4,6 +4,8 @@ Manuscripts
 ## Table of Contents
 
 - [Overview](#overview)
+
+  
  Our project aims to develop a robust model that integrates Optical Character Recognition (OCR), Natural Language Processing (NLP), and the GPT
  (Generative Pre-trained Transformer) API to restore and reconstruct text from
  Sanskrit manuscripts. These ancient texts are invaluable sources of knowledge
@@ -18,6 +20,8 @@ Manuscripts
  reconstruction results.
 
 - [Usage](#usage)
+
+  
  Our data consists of thousands of Sanskrit verses, and even higher order of
  Sanskrit words. The model will be fed these verses so it can understand the
  common usages of these words, and the style they’re usually employed in, the
@@ -25,6 +29,7 @@ Manuscripts
  effectively choose the most appropriate fillers where gaps exists so as to maintain
  the consistency of rules of poetry, prosody, and grammar of the language
 - [Data](#data)
+  
   
 - [Training](#training)
 - [Evaluation](#evaluation)
