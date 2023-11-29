@@ -11,6 +11,7 @@ Manuscripts
  Sanskrit manuscripts. These ancient texts are invaluable sources of knowledge
  and culture, often degraded or damaged over time, posing challenges in interpretation and preservation. Our model will leverage cutting-edge AI technologies
  to extract, interpret, and reconstruct the content, enabling scholars and enthusiasts to access these texts more effectively.
+ 
 - [Installation](#installation)
 
   
@@ -30,12 +31,15 @@ Manuscripts
  various meters, and rules of prosody etc. so that our model will be able to
  effectively choose the most appropriate fillers where gaps exists so as to maintain
  the consistency of rules of poetry, prosody, and grammar of the language
+ 
 - [Data](#data)
   
   
 - [Training](#training)
 - [Evaluation](#evaluation)
     ![Screenshot](https://github.com/vikramabid/manuscript_pro/blob/main/OCR_model_output.PNG)
+  
 - [Results](#results)
+    ![Screenshot](https://github.com/vikramabid/manuscript_pro/blob/main/model_pre_output.PNG)
 - [Contributing](#contributing)
 - [License](#license)
