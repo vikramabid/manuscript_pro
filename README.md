@@ -12,6 +12,8 @@ Manuscripts
  and culture, often degraded or damaged over time, posing challenges in interpretation and preservation. Our model will leverage cutting-edge AI technologies
  to extract, interpret, and reconstruct the content, enabling scholars and enthusiasts to access these texts more effectively.
 - [Installation](#installation)
+
+  
  Utilize existing OCR libraries or frameworks to develop an image processing
  module that converts the manuscript images into machine-readable text
  Develop the NLP module that processes the extracted text, performs languagespecific analysis such as tokenization etc.
